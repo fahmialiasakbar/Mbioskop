@@ -42,9 +42,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/textViewDesc"
-            android:paddingLeft="16dp"
+            android:gravity="center"
+            android:paddingLeft="160dp"
             android:textColor="?attr/colorPrimary"
-            android:textSize="8pt" />
+            android:textSize="80pt" />
 
 
     </RelativeLayout>
