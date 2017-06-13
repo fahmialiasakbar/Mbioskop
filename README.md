@@ -1,7 +1,7 @@
 ## Nama Aplikasi : 
 #### Mbioskop
 ## Link File APK : 
-#### https://github.com/fahmialiasakbar/Mbioskop/blob/master/app-release.apk
+#### https://github.com/fahmialiasakbar/Mbioskop/blob/master/mbioskop.apk
 ## Identitas Siswa :
 #### Nama lengkap : Fahmi Akbar
 #### Kelas / No urut : XI RPL 1 / 11
@@ -15,7 +15,7 @@
 ## Library dari Local Database yang digunakan pada Aplikasi : 
 #### SQLite dasar
 ## Deskripsi :
-#### Aplikasi ini merupakan aplikasi yang menggunakan API untuk menampilkan data. Aplikasi ini menggunakan API TMDb untuk mengambil data film. Aplikasi ini dapat menampilkan gambar, judul, dan vote rate. Pada Aplikasi ini kita dapat melihat film yang sedang populer, film yang sedang tayang, film yang memiliki rate tertinggi, dan film yang akan tayang.
+#### Aplikasi ini merupakan aplikasi yang menggunakan API untuk menampilkan data. Aplikasi ini menggunakan API TMDb untuk mengambil data film. Aplikasi ini dapat menampilkan gambar, judul, dan vote rate. Pada Aplikasi ini kita dapat melihat film yang sedang populer, film yang sedang tayang, film yang memiliki rate tertinggi, dan film yang akan tayang. Database digunakan untuk menyimpan data yang dimuat saat terhubung dengan internet, jadi bila tidak ada koneksi internet, maka data akan ditampilkan dari database.
 ## Kelebihan dari Aplikasi : 
 #### Warna angkatan yang khas dan tidak sakit di mata
 ## Screenshot dari Aplikasi :
